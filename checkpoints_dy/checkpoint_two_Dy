@@ -1,0 +1,29 @@
+**********************************************************************
+*
+*     ISDEVOP S17
+*     ISDEVOP Checkpoint 2 -- Git Commands Reinforcement
+*     Objective: GitKraken and Branching
+*     
+*     Author: Ken Martin Dy
+*     Date: February 18, 2024
+*     
+**********************************************************************
+
+1. In your own words, do you think, we really need DevOps?
+
+The pace of change across several industries is becoming quick and the demand 
+of the clients also evolves while the traditional tasks become a hindrance as
+the recursiveness become tedious to do. I believe that DevOps is a necessity 
+for these changing times as it allows to streamline the processes through automation. DevOps allow businesses to deploy and deliver to their clients faster while easily maintaining existing deployments.
+
+2. Kindly differentiate the three components of DevOps: CI, CD, and CD.
+
+CI or Continuous Integration is a practice where developers merge their revisions back to the main branch as often as possible. Through automation tests, the software is ensured that it will not be broken when new commits are integrated to the main branch.
+
+Continuous Delivery is supplementary to Continuous Integration since after merging the changes back to the main branch it will automatically deploy all code changes to the testing environment after the build stage. This implies that you have an automatic release procedure in addition to automated testing, and you can always click a button to launch your program.
+
+Continuous Deployment is an advancement of Continuous delivery since every change that passes all the stages of the production phase will be released to the clients. If there is a fail in one of the stages then there will be no changed that will be deployed in the production.
+
+3. In your own opinion, and based on your experience so far, what could be the most challenging part of observing the DevOps framework?
+
+One of the concepts that we have discussed in another subject, ITPLANN, is that there are teams  that work in silos. Which means they only focus in their own aspect and does not collaborate with other teams. I think the most challening part of observing the DevOps framework is breaking down these silos especially when the organization is new to DevOps and the teams have not encountered change in a long time. Overcoming these challenge will prove to be challenging since there must be a change of mindset and culture from the teams.
